@@ -1,1 +1,1 @@
-This is a Research paper published by me on AI-Based Mock Interview Platform Project
+Published a research paper presenting the design and implementation of an AI-Based Mock Interview Platform that utilizes artificial intelligence to simulate real-world interviews, assess candidate performance, and deliver actionable feedback for skill improvement.
